@@ -1,9 +1,9 @@
-import React from "react";
+import Head from "./component/Head";
 
 function App() {
   return (
-    <div className="text-3xl font-bold text-center text-red-600">
-    Hello
+    <div>
+      <Head />
     </div>
   );
 }
